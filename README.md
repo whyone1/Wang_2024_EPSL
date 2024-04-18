@@ -1,4 +1,4 @@
-# Wang 2024 ESPL Supplyment Tables
+# Wang 2024 EPSL Supplyment Tables
 
 We have uploaded the revised data in the Sup tables to this community accepted data repository. However, we have not corrected these tables in the supplement, so now only the data in the online database is revised. We apologize for the inconvenience caused by our mistake. 
 
