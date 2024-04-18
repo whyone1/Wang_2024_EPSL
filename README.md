@@ -1,5 +1,7 @@
 # Wang 2024 ESPL Supplyment Tables
 
+We have uploaded the revised data in the Sup tables to this community accepted data repository. However, we have not corrected these tables in the supplement, so now only the data in the online database is revised. We apologize for the inconvenience caused by our mistake. 
+
 ## **Table S2: OSL sample ages.** 
 
 | Site<sup>a</sup> No. | Sample No. | Depth (m) | Latitude (º) | Longitude (º) | Altitude (m asl) | Grain size (μm) | U (ppm)  | Th (ppm) | K (%) | WC<sup>b</sup> (%) | Dose rate (Gy/ka) | *D*<sub>e</sub> (Gy) | OSL age (ka) | References |
